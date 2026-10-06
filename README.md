@@ -1,8 +1,8 @@
 <div align="center">
 
-# Arun Srinivasan
+### BUILD • KNOW • EVOLVE
 
-### Building practical AI systems from learning to production-ready applications
+# Arun Srinivasan
 
 **Generative AI · RAG · AI Agents · Agentic Systems · AI Automation · Cloud & Delivery Engineering**
 
@@ -30,11 +30,11 @@ Commercial product builds are maintained in **private repositories** to protect 
 
 ---
 
-## 🔨 Build and Forge
+## 🔨 Weekend Build & Forge
 
 **Build. Test. Learn. Ship.**
 
-A focused build series for practical experiments, controlled comparisons, and applied AI engineering.
+A recurring weekend build series for focused experiments, controlled comparisons, and practical AI engineering.
 
 | Build | Project | Focus |
 |---|---|---|
@@ -78,11 +78,11 @@ Hands-on learning repositories, buildathons, capstones, and experiments that cap
 
 ---
 
-## 🧭 Learning → Building Progression
+## 🧭 Learn → Build → Forge → Production
 
-The progression below reflects how my work has evolved from foundational GenAI concepts into increasingly integrated AI systems and production-oriented applications.
+This reflects how I approach capability development: learn the foundations, build hands-on, forge the ideas through focused experiments, and carry the strongest patterns into production-oriented systems.
 
-![Learning to Building Progression](assets/learning-building-progression.svg)
+![Learn to Build to Forge to Production](assets/learning-building-progression.svg)
 
 ---
 
@@ -99,7 +99,7 @@ The goal is not only to make AI features work, but to make the surrounding syste
 ## 🎯 Current Focus
 
 - Advancing **Delivery Governance AI** toward a production-ready product experience.
-- Continuing **Build and Forge** as a practical experimentation and engineering series.
+- Continuing **Weekend Build & Forge** as a recurring practical experimentation and engineering series.
 - Deepening domain-specific **RAG, agentic systems, and AI automation** patterns.
 - Strengthening production disciplines across security, evaluation, observability, responsive UX, Dockerization, and deployment.
 
