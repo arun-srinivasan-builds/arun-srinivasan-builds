@@ -12,14 +12,25 @@ I build hands-on AI systems with a focus on grounded outputs, human oversight, g
 
 ---
 
-## 🚀 Flagship Builds
+## 🚀 Flagship Build
 
-Projects being developed beyond course exercises into substantial end-to-end systems.
+A substantial end-to-end product being developed beyond learning exercises.
 
 | Project | Focus |
 |---|---|
 | [**Delivery Governance AI**](https://github.com/arun-srinivasan-builds/delivery-governance-ai) | Production-ready AI-powered delivery governance platform connecting project evidence, meetings, governance registers, grounded Ask AI, insights and human-approved actions. |
-| [**AI Agent Olympics**](https://github.com/arun-srinivasan-builds/ai-agent-olympics) | Enterprise benchmark comparing agent architectures across research, resilience, misinformation, prompt injection and efficiency. |
+
+---
+
+## 🔨 Build and Forge
+
+**Build. Test. Learn. Ship.**
+
+A personal build series for focused experiments, controlled comparisons and practical AI engineering.
+
+| Build | Project | Focus |
+|---|---|---|
+| **Build 01** | [**AI Agent Olympics**](https://github.com/arun-srinivasan-builds/ai-agent-olympics) | Controlled benchmark comparing OpenAI Agents SDK and Microsoft AutoGen across research, resilience, misinformation, prompt injection and efficiency events. |
 
 ---
 
@@ -86,8 +97,8 @@ Across the progression I increasingly apply:
 ## 🔨 Current Focus
 
 - Building **Delivery Governance AI** as a production-ready AI application.
-- Comparing agent architectures through **AI Agent Olympics**.
-- Continuing to strengthen domain-specific RAG, agentic-system and AI-automation engineering.
+- Continuing **Build and Forge** as a recurring build-and-experiment series.
+- Strengthening domain-specific RAG, agentic-system and AI-automation engineering.
 - Applying production disciplines including guardrails, evaluations, observability, responsive UX, Dockerization and deployment.
 
 ---
@@ -96,7 +107,7 @@ Across the progression I increasingly apply:
 
 > Learn the concept. Build it hands-on. Make the system observable. Validate it. Deploy it. Improve it.
 
-The learning repositories are intentionally retained: together they show the engineering progression behind the flagship systems.
+The learning repositories are intentionally retained: together they show the engineering progression behind the flagship product and ongoing build experiments.
 
 ---
 
