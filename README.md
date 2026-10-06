@@ -12,13 +12,13 @@ I build hands-on AI systems with a focus on grounded outputs, human oversight, g
 
 ---
 
-## 🚀 Flagship Build
+## 🚀 Flagship Product Builds — Private
 
-A substantial end-to-end product being developed beyond learning exercises.
+Commercial product builds are kept in **private repositories** to protect product IP and implementation details. The public profile showcases the product capability and outcomes without exposing the source code.
 
-| Project | Focus |
-|---|---|
-| [**Delivery Governance AI**](https://github.com/arun-srinivasan-builds/delivery-governance-ai) | Production-ready AI-powered delivery governance platform connecting project evidence, meetings, governance registers, grounded Ask AI, insights and human-approved actions. |
+| Product | Focus | Repository |
+|---|---|---|
+| **Delivery Governance AI** | Production-ready AI-powered delivery governance platform connecting project evidence, meetings, governance registers, grounded Ask AI, insights and human-approved actions. | **Private** |
 
 ---
 
@@ -107,12 +107,12 @@ Across the progression I increasingly apply:
 
 > Learn the concept. Build it hands-on. Make the system observable. Validate it. Deploy it. Improve it.
 
-The learning repositories are intentionally retained: together they show the engineering progression behind the flagship product and ongoing build experiments.
+The learning repositories are intentionally retained: together they show the engineering progression behind the private flagship product and ongoing build experiments.
 
 ---
 
 <div align="center">
 
-### Explore the repositories above to follow the build journey.
+### Explore the public repositories above to follow the build journey.
 
 </div>
