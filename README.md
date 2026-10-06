@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/github-profile-cover.jpg" alt="Arun Srinivasan — BUILD KNOW EVOLVE" width="100%" />
+<img src="assets/Arun%20Srinivasan_%20Build%2C%20Evolve%2C%20Forge.png" alt="Arun Srinivasan — BUILD KNOW EVOLVE" width="100%" />
 
 <br/>
 
