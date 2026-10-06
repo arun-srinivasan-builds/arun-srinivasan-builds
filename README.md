@@ -16,9 +16,9 @@ I build hands-on AI systems with a focus on grounded outputs, human oversight, g
 
 Commercial product builds are kept in **private repositories** to protect product IP and implementation details. The public profile showcases the product capability and outcomes without exposing the source code.
 
-| Product | Focus | Repository |
-|---|---|---|
-| **Delivery Governance AI** | Production-ready AI-powered delivery governance platform connecting project evidence, meetings, governance registers, grounded Ask AI, insights and human-approved actions. | **Private** |
+| Product | Focus | Live Demo | Repository |
+|---|---|---|---|
+| **Delivery Governance AI** | Production-ready AI-powered delivery governance platform connecting project evidence, meetings, governance registers, grounded Ask AI, insights and human-approved actions. | **Coming Soon** | **Private** |
 
 ---
 
