@@ -1,10 +1,8 @@
 <div align="center">
 
-### BUILD • KNOW • EVOLVE
+<img src="assets/github-profile-cover.jpg" alt="Arun Srinivasan — BUILD KNOW EVOLVE" width="100%" />
 
-# Arun Srinivasan
-
-**Generative AI · RAG · AI Agents · Agentic Systems · AI Automation · Cloud & Delivery Engineering**
+<br/>
 
 I build hands-on AI systems with an emphasis on **grounded outputs, human oversight, guardrails, evaluations, observability, efficient execution, and deployment discipline**.
 
@@ -30,11 +28,11 @@ Commercial product builds are maintained in **private repositories** to protect 
 
 ---
 
-## 🔨 Weekend Build & Forge
+## 🔨 Build & Forge
 
 **Build. Test. Learn. Ship.**
 
-A recurring weekend build series for focused experiments, controlled comparisons, and practical AI engineering.
+A focused build series for practical experiments, controlled comparisons, and applied AI engineering.
 
 | Build | Project | Focus |
 |---|---|---|
@@ -99,7 +97,7 @@ The goal is not only to make AI features work, but to make the surrounding syste
 ## 🎯 Current Focus
 
 - Advancing **Delivery Governance AI** toward a production-ready product experience.
-- Continuing **Weekend Build & Forge** as a recurring practical experimentation and engineering series.
+- Continuing **Build & Forge** as a practical experimentation and engineering series.
 - Deepening domain-specific **RAG, agentic systems, and AI automation** patterns.
 - Strengthening production disciplines across security, evaluation, observability, responsive UX, Dockerization, and deployment.
 
