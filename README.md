@@ -2,7 +2,7 @@
 
 # Arun Srinivasan
 
-### Building practical AI systems from learning labs to production-ready applications
+### Building practical AI systems from learning to production-ready applications
 
 **Generative AI · RAG · AI Agents · Agentic Systems · AI Automation · Cloud & Delivery Engineering**
 
@@ -14,58 +14,52 @@ I build hands-on AI systems with a focus on grounded outputs, human oversight, g
 
 ## 🚀 Flagship Builds
 
-These projects represent my strongest end-to-end application and system builds.
+Projects being developed beyond course exercises into substantial end-to-end systems.
 
 | Project | Focus |
 |---|---|
-| [**Delivery Governance AI**](https://github.com/arun-srinivasan-builds/delivery-governance-ai) | AI-powered delivery governance platform connecting project evidence, meetings, governance registers, grounded Ask AI, insights and human-approved actions. |
-| [**AI Agent Olympics**](https://github.com/arun-srinivasan-builds/ai-agent-olympics) | Controlled comparison of AI agent architectures with visible outcomes, guardrails, evaluations, observability and API efficiency. |
-| [**AI Migration Advisor**](https://github.com/arun-srinivasan-builds/AI-Migration-Advisor) | AI-assisted migration advisory and decision support. |
-| [**Enterprise AI Copilot**](https://github.com/arun-srinivasan-builds/Enterprise-AI-Copilot) | Enterprise-focused AI copilot exploration and application patterns. |
-| [**FoodSafe AI**](https://github.com/arun-srinivasan-builds/FoodSafe_AI) | Applied AI solution demonstrating domain-focused GenAI capabilities. |
+| [**Delivery Governance AI**](https://github.com/arun-srinivasan-builds/delivery-governance-ai) | Production-ready AI-powered delivery governance platform connecting project evidence, meetings, governance registers, grounded Ask AI, insights and human-approved actions. |
+| [**AI Agent Olympics**](https://github.com/arun-srinivasan-builds/ai-agent-olympics) | Enterprise benchmark comparing agent architectures across research, resilience, misinformation, prompt injection and efficiency. |
 
 ---
 
-## 🧠 RAG & AI Engineering
+## 📚 Learning Builds & Labs
 
-My progression from foundational retrieval to hybrid RAG, knowledge graphs, guardrails and evaluations.
+Hands-on learning repositories, buildathons, capstones and experiments. These preserve the progression from foundations through RAG, agents, automation and applied AI.
+
+### Applied AI & RAG
 
 | Project | Focus |
 |---|---|
-| [**Hybrid RAG — FAISS + Neo4j**](https://github.com/arun-srinivasan-builds/Hybrid-RAG-FAISS-Neo4j) | Hybrid retrieval combining vector search with a Neo4j knowledge graph. |
-| [**RAG Chatbot — Knowledge Graph, Guardrails & Evals**](https://github.com/arun-srinivasan-builds/RAG_Chatbot_Knowledge_Graph_Guardrail_Evals) | RAG engineering with knowledge graphs, safety guardrails and evaluation practices. |
-| [**PDF RAG**](https://github.com/arun-srinivasan-builds/RAG-PDF) | Document-grounded question answering and foundational RAG workflow. |
-| [**LangChain · OpenAI · LangSmith**](https://github.com/arun-srinivasan-builds/LangChain-OpenAI-LangSmith) | LangChain application development with LangSmith tracing and observability. |
+| [**AI Migration Advisor**](https://github.com/arun-srinivasan-builds/AI-Migration-Advisor) | Applied-AI learning prototype for enterprise migration assessment using Python, Streamlit, Ollama and a local LLM. |
+| [**Enterprise AI Copilot**](https://github.com/arun-srinivasan-builds/Enterprise-AI-Copilot) | Learning build exploring hybrid knowledge assistance, structured retrieval, semantic search, attribution and entity-aware routing. |
+| [**FoodSafe AI**](https://github.com/arun-srinivasan-builds/FoodSafe_AI) | Buildathon applying domain-focused RAG to food-safety intelligence. |
+| [**Hybrid RAG — FAISS + Neo4j**](https://github.com/arun-srinivasan-builds/Hybrid-RAG-FAISS-Neo4j) | Hands-on Hybrid RAG exercise combining vector retrieval with a Neo4j knowledge graph. |
+| [**RAG Chatbot — Knowledge Graph, Guardrails & Evals**](https://github.com/arun-srinivasan-builds/RAG_Chatbot_Knowledge_Graph_Guardrail_Evals) | Learning build combining RAG, knowledge graphs, guardrails and evaluations. |
+| [**PDF RAG**](https://github.com/arun-srinivasan-builds/RAG-PDF) | Foundational document-grounded RAG exercise. |
+| [**LangChain · OpenAI · LangSmith**](https://github.com/arun-srinivasan-builds/LangChain-OpenAI-LangSmith) | LangChain application learning with OpenAI and LangSmith observability. |
 
----
-
-## 🤖 AI Agents & Automation
-
-Moving from deterministic automation toward AI-assisted workflows, specialized agents and multi-agent systems.
-
-| Project | Focus |
-|---|---|
-| [**CrewAI Customer Support**](https://github.com/arun-srinivasan-builds/CrewAI-Customer-Support) | Sequential specialized-agent customer-support workflow using CrewAI. |
-| [**AutoGen Customer Support Buildathon**](https://github.com/arun-srinivasan-builds/AutoGen-Customer-Support-Buildathon) | Multi-agent customer-support system using AutoGen. |
-| [**AI Fabric Migration — n8n Automation**](https://github.com/arun-srinivasan-builds/AI-Fabric-Migration-n8n-Automation) | AI-powered workflow automation for migration use cases using n8n. |
-| [**RPA Automation**](https://github.com/arun-srinivasan-builds/RPA-Automation) | Automation foundations and RPA workflow implementation. |
-
----
-
-## 📚 Foundations & Learning Labs
-
-These repositories capture the engineering foundations behind the more advanced builds above.
+### AI Agents & Automation
 
 | Project | Focus |
 |---|---|
-| [**GenAI Basics**](https://github.com/arun-srinivasan-builds/GenAI-Basics) | Core Generative AI concepts and hands-on exercises. |
-| [**Basic GenAI Application — LangChain Mastery Demo**](https://github.com/arun-srinivasan-builds/Basic-GenAI-Application-LangChain-Mastery-Demo) | Practical LangChain application foundations. |
-| [**API & Streamlit**](https://github.com/arun-srinivasan-builds/API-and-Streamlit) | API integration and Streamlit application development. |
-| [**Cloud Engineering Systems**](https://github.com/arun-srinivasan-builds/Cloud-Engineering-Systems) | Cloud and systems engineering foundations. |
+| [**CrewAI Customer Support**](https://github.com/arun-srinivasan-builds/CrewAI-Customer-Support) | Buildathon exploring sequential specialized-agent orchestration with CrewAI. |
+| [**AutoGen Customer Support Buildathon**](https://github.com/arun-srinivasan-builds/AutoGen-Customer-Support-Buildathon) | Buildathon exploring multi-agent orchestration with AutoGen. |
+| [**AI Fabric Migration — n8n Automation**](https://github.com/arun-srinivasan-builds/AI-Fabric-Migration-n8n-Automation) | Learning capstone integrating AI-powered migration assessment with n8n workflow automation. |
+| [**RPA Automation**](https://github.com/arun-srinivasan-builds/RPA-Automation) | RPA and workflow-automation foundations and implementations. |
+
+### Foundations
+
+| Project | Focus |
+|---|---|
+| [**GenAI Basics**](https://github.com/arun-srinivasan-builds/GenAI-Basics) | Hands-on Generative AI foundations and core concepts. |
+| [**Basic GenAI Application — LangChain Mastery Demo**](https://github.com/arun-srinivasan-builds/Basic-GenAI-Application-LangChain-Mastery-Demo) | Foundational LangChain and Generative AI application exercise. |
+| [**API & Streamlit**](https://github.com/arun-srinivasan-builds/API-and-Streamlit) | Hands-on API integration and Streamlit application development. |
+| [**Cloud Engineering Systems**](https://github.com/arun-srinivasan-builds/Cloud-Engineering-Systems) | Hands-on cloud and systems engineering foundations. |
 
 ---
 
-## 🧭 How the Builds Connect
+## 🧭 Learning → Building Progression
 
 ```text
 GenAI Foundations
@@ -83,7 +77,7 @@ AI-Powered Automation
 Production-Ready AI Applications
 ```
 
-Across these builds I increasingly apply:
+Across the progression I increasingly apply:
 
 **Guardrails · Evaluations · Human-in-the-Loop · Observability · API Efficiency · Docker · VPS Deployment · Enterprise UX**
 
@@ -93,8 +87,7 @@ Across these builds I increasingly apply:
 
 - Building **Delivery Governance AI** as a production-ready AI application.
 - Comparing agent architectures through **AI Agent Olympics**.
-- Strengthening domain-specific **Hybrid RAG** patterns.
-- Building practical **AI automation** workflows.
+- Continuing to strengthen domain-specific RAG, agentic-system and AI-automation engineering.
 - Applying production disciplines including guardrails, evaluations, observability, responsive UX, Dockerization and deployment.
 
 ---
@@ -103,7 +96,7 @@ Across these builds I increasingly apply:
 
 > Learn the concept. Build it hands-on. Make the system observable. Validate it. Deploy it. Improve it.
 
-My repositories intentionally preserve the progression from learning exercises to increasingly complete AI systems.
+The learning repositories are intentionally retained: together they show the engineering progression behind the flagship systems.
 
 ---
 
