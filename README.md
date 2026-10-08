@@ -18,13 +18,13 @@ A dedicated portfolio experience bringing together my **BUILD, KNOW, and EVOLVE*
 
 ---
 
-## 🚀 Flagship Product Builds — Private
+## 🚀 Featured Build
 
-Commercial product builds are maintained in **private repositories** to protect product IP and implementation details. The public profile highlights the product capability and outcomes without exposing source code.
+### Delivery Governance AI
 
-| Product | What it does | Live Demo | Repository |
-|---|---|---|---|
-| **Delivery Governance AI** | AI-powered delivery governance platform connecting project evidence, meetings, governance registers, grounded Ask AI, insights, and human-approved actions. | **Coming Soon** | **Private** |
+An evolving AI-powered delivery governance application connecting project evidence, meetings, governance registers, grounded answers, insights, and human-reviewed actions. The work brings together data engineering, practical AI integration, and thoughtful application design.
+
+**Focus:** Connected project information · Evidence-grounded AI · Human oversight · Clear delivery insights
 
 ---
 
@@ -76,11 +76,9 @@ Hands-on learning repositories, buildathons, capstones, and experiments that cap
 
 ---
 
-## 🧭 Learn → Build → Forge → Production
+## 🧭 Learn → Build → Evolve
 
-This reflects how I approach capability development: learn the foundations, build hands-on, forge the ideas through focused experiments, and carry the strongest patterns into production-oriented systems.
-
-![Learn to Build to Forge to Production](assets/learning-building-progression.svg)
+I explore foundations, build practical applications, test ideas through focused experiments, and keep improving what I learn. **Build & Forge** is where that experimentation becomes visible.
 
 ---
 
@@ -96,10 +94,10 @@ The goal is not only to make AI features work, but to make the surrounding syste
 
 ## 🎯 Current Focus
 
-- Advancing **Delivery Governance AI** toward a production-ready product experience.
+- Evolving **Delivery Governance AI** through connected governance workflows, evidence-grounded AI, and clear user experiences.
 - Continuing **Build & Forge** as a practical experimentation and engineering series.
 - Deepening domain-specific **RAG, agentic systems, and AI automation** patterns.
-- Strengthening production disciplines across security, evaluation, observability, responsive UX, Dockerization, and deployment.
+- Strengthening engineering practices across security, evaluation, observability, responsive UX, Docker, and deployment.
 
 ---
 
@@ -107,7 +105,7 @@ The goal is not only to make AI features work, but to make the surrounding syste
 
 > **Learn deeply. Build intentionally. Validate visibly. Deploy responsibly. Improve continuously.**
 
-The learning repositories are intentionally retained because they show the engineering progression behind the private flagship product and ongoing build experiments.
+The learning repositories remain visible to show the journey from foundational exercises to applied builds and ongoing experiments.
 
 ---
 
