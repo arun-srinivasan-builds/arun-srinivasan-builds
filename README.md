@@ -44,6 +44,12 @@ A focused build series for practical experiments, controlled comparisons, and ap
 
 Hands-on learning repositories, buildathons, capstones, and experiments that capture the progression from foundations through RAG, agents, automation, and applied AI.
 
+### GenAI Applications & Agentic Coding
+
+| Project | Focus |
+|---|---|
+| [**ReviewLens — Customer Feedback Analyzer**](https://github.com/arun-srinivasan-builds/review-lens) | Agentic coding learning assignment built using Claude Code. LangChain, OpenAI, and Streamlit power multilingual sentiment analysis, urgency detection, and weekly customer-feedback insights. [**Live Demo ↗**](https://reviewlens.arunsrinivasan.io/) |
+
 ### Applied AI & RAG
 
 | Project | Focus |
